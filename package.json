@@ -1,0 +1,18 @@
+{
+    "title": "Classic Dream Theme",
+    "name": "classic-dream-theme",
+    "description": "Dreamweaver Classic Theme",
+    "keywords": ["classic", "theme", "dreamweaver"],
+    "license": "MIT",
+
+    "theme": {
+        "file": "main.less",
+        "dark": false
+    },
+
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+
+    "version": "1.0.0"
+}
